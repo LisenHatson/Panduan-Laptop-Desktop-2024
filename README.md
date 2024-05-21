@@ -3,17 +3,17 @@ Panduan Memilih Laptop/Desktop 2024 (WIP)
 
 
 ## Daftar Isi
-* [Baru atau Bekas?](#-Baru atau Bekas?-)
-* [Komponen Komputer](#-Komponen Komputer-)
-    * [Istilah-istilah dan Maksudnya](#-Istilah-istilah dan Maksudnya-)
-    * [Merk dan Tinjauannya](# -Merk dan Tinjauannya-)
-    * [SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI](#-SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI-)
- * [Rekomendasi Laptop](#-Rekomendasi Laptop-)
+* [Baru atau Bekas?](#-Baru-atau-Bekas?-)
+* [Komponen Komputer](#-Komponen-Komputer-)
+    * [Istilah-istilah dan Maksudnya](#-Istilah-istilah-dan-Maksudnya-)
+    * [Merk dan Tinjauannya](#-Merk-dan-Tinjauannya-)
+    * [SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI](#-SPESIFIKASI-KOMPONEN-YANG-HARUS-DIHINDARI-)
+ * [Rekomendasi Laptop](#-Rekomendasi-Laptop-)
     * Rakit>*Prebuilt*
  * [Rekomendasi Desktop (Paket Komponen Rakitan)]
 
 
-## - Baru atau Bekas? -
+## Baru atau Bekas?
 
 ### Baru
 + Barang belum pernah dipakai.
