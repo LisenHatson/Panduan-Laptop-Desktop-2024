@@ -3,12 +3,12 @@ Panduan Memilih Laptop/Desktop 2024 (WIP)
 
 
 ## Daftar Isi
-* [Baru atau Bekas?](# -Baru atau Bekas?-)
-* [Komponen Komputer](# -Komponen Komputer-)
-    * [Istilah-istilah dan Maksudnya](# -Istilah-istilah dan Maksudnya-)
+* [Baru atau Bekas?](#-Baru atau Bekas?-)
+* [Komponen Komputer](#-Komponen Komputer-)
+    * [Istilah-istilah dan Maksudnya](#-Istilah-istilah dan Maksudnya-)
     * [Merk dan Tinjauannya](# -Merk dan Tinjauannya-)
-    * [SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI](# -SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI-)
- * [Rekomendasi Laptop](# -Rekomendasi Laptop-)
+    * [SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI](#-SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI-)
+ * [Rekomendasi Laptop](#-Rekomendasi Laptop-)
     * Rakit>*Prebuilt*
  * [Rekomendasi Desktop (Paket Komponen Rakitan)]
 
@@ -97,9 +97,9 @@ Ideologi kapitalisme dan sosialisme termanifestasi karena suatu alasan.
 #### Thinkpad
 
 ###### Untuk Keperluan Biasa (berselancar di peramban, mengakses program-program *Microsoft Office*, dan mengakses media):
-      * Ukuran kecil (12 inci): seri X, X270 semakin tinggi nilai angka di tengah (7) semakin baru modelnya. Model jadul: X220 dan sebelumnya.
-      * Ukuran sedang (14 inci): seri T4xx, di mana 'xx' adalah angka (T420, T480, dan lainnya).
-      * Ukuran besar (15 inci): seri T5xx.
+   * Ukuran kecil (12 inci): seri X, X270 semakin tinggi nilai angka di tengah (7) semakin baru modelnya. Model jadul: X220 dan sebelumnya.
+   * Ukuran sedang (14 inci): seri T4xx, di mana 'xx' adalah angka (T420, T480, dan lainnya).
+   * Ukuran besar (15 inci): seri T5xx.
 ###### Untuk Pekerjaan Berat (pemrosesan atau sunting video, menjalankan program berat):
     * Ukuran kecil: seri X1 Extreme.
     * Ukuran sedang: seri T4xxp (T440p, T470p).
@@ -107,7 +107,7 @@ Ideologi kapitalisme dan sosialisme termanifestasi karena suatu alasan.
     * Ukuran sangat besar (17 inci): seri W7xx dan seri P7x. 
     * Penggunaan daya rendah: seri W5xxs dan seri P5xs (P52s, W550s).
  ###### Model Mewah Ala Eksekutif:
-     * Seri X1 Carbon atau X1 Extreme
+   * Seri X1 Carbon atau X1 Extreme
 
 ###### Untuk *Gaming* Ringan (tidak seberat pemrosesan atau sunting video, tetapi konstan):
     * yang paling memungkinkan untuk *gaming* ringan: seri P, direkomendasikan model P52 atau setelahnya.
