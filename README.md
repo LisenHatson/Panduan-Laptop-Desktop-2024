@@ -13,7 +13,7 @@ Panduan Memilih Laptop/Desktop 2024 (WIP)
  * [Rekomendasi Desktop (Paket Komponen Rakitan)]
 
 
-## -Baru atau Bekas?-
+## - Baru atau Bekas? -
 
 ### Baru
 + Barang belum pernah dipakai.
