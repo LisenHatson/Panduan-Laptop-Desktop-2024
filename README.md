@@ -80,10 +80,10 @@ Perlu anda ketahui bahwa perusahaan-perusahaan besar pada umumnya lebih memilih 
 Ideologi kapitalisme dan sosialisme termanifestasi karena suatu alasan.
 
 #### Non-Thinkpad  
-    * Macbook Pro dengan seri prosesor M (bekas), dengan RAM dan penyimpanan yang lebih banyak (khusus anggota ekosistem Apple dan yang ingin bereksperimen dengannya).
-    * Panasonic Toughbook, memiliki durabilitas yang kuat.
-    * Dell Precision/Latitude/XPS (Seri laptop bisnisnya Dell,  Latitude<XPS<Precision<<Thinkpad.)
-    * HP Probook/Elitebook/Zbook (Seri laptop bisnisnya HP, <<<Thinkpad).
+   * Macbook Pro dengan seri prosesor M (bekas), dengan RAM dan penyimpanan yang lebih banyak (khusus anggota ekosistem Apple dan yang ingin bereksperimen dengannya).
+   * Panasonic Toughbook, memiliki durabilitas yang kuat.
+   * Dell Precision/Latitude/XPS (Seri laptop bisnisnya Dell,  Latitude<XPS<Precision<<Thinkpad.)
+   * HP Probook/Elitebook/Zbook (Seri laptop bisnisnya HP, <<<Thinkpad).
  
  *"Laptop gaming? Laptop ROG? Laptop Nitro? Laptop Razer? Laptop Alienware?"* **Mending rakit PC.**
  
@@ -101,26 +101,26 @@ Ideologi kapitalisme dan sosialisme termanifestasi karena suatu alasan.
    * Ukuran sedang (14 inci): seri T4xx, di mana 'xx' adalah angka (T420, T480, dan lainnya).
    * Ukuran besar (15 inci): seri T5xx.
 ###### Untuk Pekerjaan Berat (pemrosesan atau sunting video, menjalankan program berat):
-    * Ukuran kecil: seri X1 Extreme.
-    * Ukuran sedang: seri T4xxp (T440p, T470p).
-    * Ukuran besar: seri W5xx dan seri P5x.
-    * Ukuran sangat besar (17 inci): seri W7xx dan seri P7x. 
-    * Penggunaan daya rendah: seri W5xxs dan seri P5xs (P52s, W550s).
+   * Ukuran kecil: seri X1 Extreme.
+   * Ukuran sedang: seri T4xxp (T440p, T470p).
+   * Ukuran besar: seri W5xx dan seri P5x.
+   * Ukuran sangat besar (17 inci): seri W7xx dan seri P7x. 
+   * Penggunaan daya rendah: seri W5xxs dan seri P5xs (P52s, W550s).
  ###### Model Mewah Ala Eksekutif:
    * Seri X1 Carbon atau X1 Extreme
 
 ###### Untuk *Gaming* Ringan (tidak seberat pemrosesan atau sunting video, tetapi konstan):
-    * yang paling memungkinkan untuk *gaming* ringan: seri P, direkomendasikan model P52 atau setelahnya.
-    * berukuran sedang: T470p, T480, dan setelahnya.
-    * berukuran kecil: Seri X1 Carbon atau Extreme dengan prosesor Intel generasi 7 atau setelahnya.
+   * yang paling memungkinkan untuk *gaming* ringan: seri P, direkomendasikan model P52 atau setelahnya.
+   * berukuran sedang: T470p, T480, dan setelahnya.
+   * berukuran kecil: Seri X1 Carbon atau Extreme dengan prosesor Intel generasi 7 atau setelahnya.
 
 **Seri Thinkpad yang perlu dihindari: seri E (E14 dan sejenisnya)**
 
 #### Kenapa Thinkpad?
-    * Produk bekasnya murah karena perusahaan biasa membeli banyak lalu menjual murah ketika mengganti perangkat satu perusahaan.
-    * Memiliki durabilitas yang baik dibandingkan model laptop lainnya. Terlalu *durable*, bahkan.
-    * Memiliki keyboard dengan *feels* yang nyaman dibandingkan laptop lainnya yang cenderung keras.
-    * Memiliki keyboard yang tahan air.
+   * Produk bekasnya murah karena perusahaan biasa membeli banyak lalu menjual murah ketika mengganti perangkat satu perusahaan.
+   * Memiliki durabilitas yang baik dibandingkan model laptop lainnya. Terlalu *durable*, bahkan.
+   * Memiliki keyboard dengan *feels* yang nyaman dibandingkan laptop lainnya yang cenderung keras.
+   * Memiliki keyboard yang tahan air.
     - *(Model lama biasanya memiliki durabilitas yang lebih baik dibandingkan model baru)*
     - *(Model lama juga biasanya lebih mudah diperbaiki dan diperbaharui daripada model baru)*
 
