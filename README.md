@@ -28,12 +28,12 @@ Panduan Memilih Laptop/Desktop 2024 (WIP)
 ## -Komponen Komputer-
 ### -Istilah-istilah dan Maksudnya-
 
-**Mamaboard**: komponen yang menjadi tempat terpasangnya komponen-komponen komputer (motherboard).
-**CPU (Central Processing Unit)**: unit pemroses inti dalam keseluruhan komputer.
-**GPU (Graphics Processing Unit)**: unit pemroses grafik agar komputer dapat menampilkan grafik (gambar) di layar yang tersedia.
++ **Mamaboard**: komponen yang menjadi tempat terpasangnya komponen-komponen komputer (motherboard).
++ **CPU (Central Processing Unit)**: unit pemroses inti dalam keseluruhan komputer.
++ **GPU (Graphics Processing Unit)**: unit pemroses grafik agar komputer dapat menampilkan grafik (gambar) di layar yang tersedia.
     * **iGPU (*integrated* GPU)**: GPU yang terintegrasi pada CPU, memiliki performa yang cenderung rendah dibandingkan *dGPU*.
     * **dGPU (*dedicated* GPU)**: GPU yang terpisah dari CPU, tidak bisa digunakan tanpa CPU. Juga CPU yang tidak memiliki iGPU tidak bisa berjalan tanpa *dGPU*. Memiliki performa yang lebih baik dari *iGPU* pada umumnya.
-**RAM (Random Accsess Memory)**: unit penyimpan memori cepat yang membantu CPU dalam mengolah program.
++ **RAM (Random Accsess Memory)**: unit penyimpan memori cepat yang membantu CPU dalam mengolah program.
 
 #### Penyimpanan
 * **HDD (Hard Disk Drive)**: unit yang menyimpan data dalam mekanisme elektromagnetik. Memiliki bentuk protokol IDE dan ATA/SATA
