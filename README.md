@@ -54,7 +54,7 @@ Panduan Memilih Laptop/Desktop 2024 (WIP)
 #### GPU
 + **Nvidia**: memiliki variasi produk yang luas dan sudah terjamin untuk berbagai jenis pemakaian.
 + **AMD**: prosesor yang berfokus dalam performa *gaming*. Tidak direkomendasikan untuk *video editing*.
-+ **Intel**: cenderung baru dan murah, tetapi belum benar-benar stabil dan terjamin.
++ **Intel**: cenderung baru dan murah, tetapi belum benar-benar stabil dan terjamin. Memiliki potensi untuk menyaingi Nvidia untuk produktivitas seperti video editing dan lainnya.
  
  #### Komponen Lainnya
  Beberapa merk memiliki kualitas komponen yang beragam, sehingga cenderung sulit untuk menulis pratinjau, pilihlah merk ternama yang sudah diulas oleh orang-orang terpercaya.
