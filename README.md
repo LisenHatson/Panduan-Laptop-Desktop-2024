@@ -4,7 +4,8 @@ Panduan Memilih Laptop/Desktop 2024
 ## Daftar Isi
  * [Baru atau Bekas?](#-Baru-atau-Bekas?)
  * [SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI](#-SPESIFIKASI-KOMPONEN-YANG-HARUS-DIHINDARI-)
- * [Rekomendasi Laptop](#-Rekomendasi-Laptop)
+ * [Rekomendasi Laptop](#-Rekomendasi-Laptop)CPU: AMD Ryzen 3400G / AMD Ryzen 5600G / Intel i3-12100
+
 	* [Thinkpad](#Thinkpad)
 	* [Dell Latitude](#Dell-Latitude)
 	* [Dell Precision](#Dell-Precision)
@@ -185,10 +186,8 @@ Prebuilt memang mahal, beda halnya dengan komputer-komputer bekas dan mini PC, S
 
 Mini PC cukup diminati dan secara performa sudah berkembang menjadi lebih baik, tapi perlu anda ketahui bahwa Mini PC lebih menyerupai laptop yang tidak terlalu portabel daripada desktop kecil, karena Mini PC tidak memakan banyak energi juga tidak bisa melakukan pekerjaan yang sangat berat.
 
-SFF/Tiny PC
-==
+#### SFF/Tiny PC
 Thinkcentre, Elitedesk, Optiplex.
 
-Mini PC
-==
+##### Mini PC
 Beelink, Intel NUC, MSI Cubi, Geekom.
