@@ -166,13 +166,13 @@ Grafik/Pemrosesan berat: Advan Pixelwar, Axioo Pongo
 > Anggaran di bawah 2 juta? [SFF/Tiny PC](#SFF/Tiny-PC) 
 
 [*Browsing* dan pekerjaan ringan | 4-8 Juta ]
-CPU: AMD Ryzen 3400G / AMD Ryzen 5600G / Intel i3-12100
-MoBo: AMD B450(M) / AMD B550(M) / Intel B660(M) / Intel B760(M)
-RAM: DDR4 2x4GB (8GB) / 2x8GB (16GB)
-Storage: NVMe/SATA III 256GB / 512GB (jangan membeli barang bekas atau yang terlalu murah)
-PSU: >400W, jangan membeli yang terlalu murah, kualitas kurang, atau yang bermerk "Gamemax"
-Case: Pastikan sesuai dengan ukuran MoBo-nya (ATX/mATX)
-Monitor: MSI G244F E2 (1080p) atau cari yang lebih murah
+- CPU: AMD Ryzen 3400G / AMD Ryzen 5600G / Intel i3-12100
+- MoBo: AMD B450(M) / AMD B550(M) / Intel B660(M) / Intel B760(M)
+- RAM: DDR4 2x4GB (8GB) / 2x8GB (16GB)
+- Storage: NVMe/SATA III 256GB / 512GB (jangan membeli barang bekas atau yang terlalu murah)
+- PSU: >400W, jangan membeli yang terlalu murah, kualitas kurang, atau yang bermerk "Gamemax"
+- Case: Pastikan sesuai dengan ukuran MoBo-nya (ATX/mATX)
+- Monitor: MSI G244F E2 (1080p) atau cari yang lebih murah
 > Spesifikasi ini dapat melakukan gaming ringan, beli GPU tambahan jika ingin memainkan sesuatu yang lebih berat.
 
 >> Saya belum akan menambahkan rekomendasi komponen-komponen desktop lebih lanjut karena perlu banyak lagi data untuk disusun.
