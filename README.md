@@ -97,7 +97,7 @@ Dell Precision
 5540-5570, 7540-7670
 > Precision adalah model kompetitor seri model "P" pada ThinkPad (P16, P52), mengutamakan performa seperti kompetitornya.
 
-## Panduan keterangan angka-angka pada model laptop Dell:
+#### Panduan keterangan angka-angka pada model laptop Dell:
 7 dan 5 pada urutan pertama (7xxx, 5xxx)
 > Kelengkapan dan fungsi modelnya, model 7xxx lebih lengkap dari 5xxx.
 
