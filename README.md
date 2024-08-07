@@ -122,8 +122,8 @@ Pro M1, M2, M3, M4
 
 Advan dan Axioo
 ==
-Serbaguna: Advan Workplus, Axioo Hype 3/5/7
-Grafik/Pemrosesan berat: Advan Pixelwar, Axioo Pongo
+- Serbaguna: Advan Workplus, Axioo Hype 3/5/7
+- Grafik/Pemrosesan berat: Advan Pixelwar, Axioo Pongo
 
 
 ## Komponen Komputer
