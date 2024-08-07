@@ -4,7 +4,7 @@ Panduan Memilih Laptop/Desktop 2024
 ## Daftar Isi
  * [Baru atau Bekas?](#-Baru-atau-Bekas?)
  * [SPESIFIKASI KOMPONEN YANG HARUS DIHINDARI](#-SPESIFIKASI-KOMPONEN-YANG-HARUS-DIHINDARI-)
- * [Rekomendasi Laptop](#-Rekomendasi-Laptop)CPU: AMD Ryzen 3400G / AMD Ryzen 5600G / Intel i3-12100
+ * [Rekomendasi Laptop](#-Rekomendasi-Laptop)
 
 	* [Thinkpad](#Thinkpad)
 	* [Dell Latitude](#Dell-Latitude)
